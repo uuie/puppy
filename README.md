@@ -1,4 +1,4 @@
-### Puppy: rpc proxy  for php-fpm 
+### Puppi: Pull Proxy for Php  remote Invocation
 
 
 
